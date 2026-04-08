@@ -1,0 +1,6 @@
+# Large local source files that should not be pushed to GitHub
+notes/QFT notes.pdf
+notes/qft-notes-part-*.pdf
+
+# Temporary files created while splitting PDFs
+tmp/
